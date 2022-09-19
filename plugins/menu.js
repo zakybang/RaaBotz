@@ -239,7 +239,7 @@ ${'```%npmdesc```'}
      const jamm = Math.floor( lebih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60)) 
      const menitt = Math.floor( lebih % (1000 * 60 * 60) / (1000 * 60)) 
      const detikk = Math.floor( lebih % (1000 * 60) / 1000) 
-     const ultah = new Date('October 1 2022 23:59:59')
+     const ultah = new Date('Februari 28 2022 23:59:59')
     const sekarat = new Date().getTime() 
     const Kurang = ultah - sekarat
     const ohari = Math.floor( Kurang / (1000 * 60 * 60 * 24));
@@ -298,7 +298,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `RaaBotz-MD By Claraa`, 
+    message: `CUTE IQ-MD BY SYAH`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/f32f779ce8eaf70158228.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -428,7 +428,7 @@ await conn.send2ButtonLoc(m.chat, await conn.resize(await (await fetch(flu + te
      //conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m).catch(_ => conn.reply(m.chat, text.trim(), m))
   conn.sendFile(m.chat, 'https://bit.ly/3AtM34K', 'haori.mp3', null, m, true, {
 type: 'audioMessage', 
-ptt: true, contextInfo:{ externalAdReply: { title: `💌 Ultah Claraa : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `${pickRandom(['Follow My Instagram Plis •~•'])}`, sourceUrl: 'https://www.instagram.com/inizenscuy/', thumbnail: await (await fetch('https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg')).buffer(),}} 
+ptt: true, contextInfo:{ externalAdReply: { title: `🌱 Ultah Syah : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `${pickRandom(['Follow My Instagram Plis •~•'])}`, sourceUrl: 'https://www.instagram.com/inizenscuy/', thumbnail: await (await fetch('https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg')).buffer(),}} 
      })
 } catch (e) { 
      conn.reply(m.chat, 'Maaf, menu sedang error', m) 
