@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895604670507', 'Claraa', true], 
-['62895604670507', 'TOLONG JGN SPAM', true] 
+['6281365255567', 'Syah', true], 
+['6281269883200', 'CUTE IQ-MD', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -24,9 +24,9 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.neoxr.eu.org': 'yntkts',
-  'https://api.xteam.xyz': 'apikeyaine',
+  'https://api.xteam.xyz': 'cristian9407',
   'https://melcanz.com': 'elaina',
-  'https://api.lolhuman.xyz': 'apikeyaine',
+  'https://api.lolhuman.xyz': 'rey2k21',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -34,14 +34,14 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝐂𝐥𝐚𝐫𝐚𝐚'
-global.linkgc = 'https://chat.whatsapp.com/Gapunya'
-global.linkig = 'https://www.instagram.com/inizenscuy'
+global.linkyt = 'https://youtu.be/60yZO4UQKdI'
+global.WM = '⚠️ ┊ WhatsApp Bot By Syah''
+global.linkgc = 'https://chat.whatsapp.com/JUbwFa7IYtBICC2FOp7eKP'
+global.linkig = 'https://www.instagram.com/the.sad.boy01'
 global.deslink = ''
-global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
-global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@inizenscuy'
+global.logo = 'https://telegra.ph/file/9214c791ee3156d6ec31c.jpg'
+global.titlink = ' CUTE IQ-MD'
+global.bodlink = '@the.syah.record'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -52,7 +52,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+6281365255567'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
